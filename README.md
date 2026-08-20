@@ -30,3 +30,7 @@ npm run build
 ```
 
 Personal progress and notes are stored in the visitor's browser and are not committed to the repository.
+
+## GitHub Pages
+
+Every push to `main` automatically builds and publishes the handbook through the workflow in `.github/workflows/pages.yml`.
